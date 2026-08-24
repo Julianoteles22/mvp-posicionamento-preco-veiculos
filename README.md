@@ -82,13 +82,6 @@ mvp_posicionamento_preco_veiculos/
 └── .gitignore
 ```
 
-## Como Executar no Google Colab
-
-1. Abra o arquivo `MVP1_SSD_Posicionamento_Preco_Veiculos.ipynb` no Google Colab.
-2. Execute as células em ordem.
-3. Faça upload da base original de veículos quando solicitado.
-4. O notebook aceita arquivos `.xlsx`, `.xls` e `.csv`.
-
 ## Requisitos da Base
 
 A base deve conter as seguintes colunas:
